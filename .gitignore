@@ -1,0 +1,9 @@
+# Project exclude paths
+/atguigu-hello-spring-boot-starter/target/
+/atguigu-hello-spring-boot-starter-autoconfigure/target/
+/boot-01-helloworld/boot-01-helloworld/target/
+/boot-01-helloworld-2/target/
+/boot-05-adminserver/target/
+/boot-05-web-01/target/
+/boot-05-web-admin/target/
+/boot-09-features-profile/target/
